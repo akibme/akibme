@@ -7,7 +7,7 @@ Modern Responsive Portfolio Website built using HTML, CSS & JavaScript.
 https://akibme.github.io/web/
 
 <p align="center">
-<img src="images/preview.png" width="100%">
+<img src="preview.png" width="100%">
 </p>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
