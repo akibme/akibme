@@ -1,29 +1,75 @@
-# Hi 👋 I'm Akib
+# 🌐 Personal Portfolio Website
 
-## Full Stack Web Developer
+Modern Responsive Portfolio Website built using HTML, CSS & JavaScript.
 
-I build scalable web applications using:
+### 🔗 Live Demo
 
-- PHP
-- Python
-- MySQL
-- HTML
-- CSS
+https://akibme.github.io/web/
 
-## Currently Working On
+<p align="center">
+<img src="images/preview.png" width="100%">
+</p>
 
-- Web Applications
-- APIs
-- Automation Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-## Skills
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-PHP • Python • MySQL • HTML • CSS 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
+
+## ✨ Features
+
+- Responsive Design
+- Dark / Light Mode
+- Smooth Scrolling
+- Animated Sections
+- Mobile Navigation
+- Modern UI
+- SEO Friendly
+- Fast Loading
+
+- ## 🛠 Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome
+- Responsive Design
+
+- ## Installation
+
+```bash
+git clone https://github.com/akibme/web.git
+```
+
+Open
+
+```
+index.html
+```
+
+in your browser.
+
+## 🚀 Live Demo
+
+https://akibme.github.io/web/
 
 ## Contact
 
-WhatsApp:
+Email
+akib.me.bd@gmail.com
+
+GitHub
+https://github.com/akibme
+
+WhatsApp
 https://api.whatsapp.com/send?phone=8801701466702
 
-Email:
-akib.me.bd@gmail.com
+## License
+
+MIT License
+
+git add .
+git commit -m "Professional README"
+git push origin main
